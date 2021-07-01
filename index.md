@@ -2,7 +2,7 @@
 layout: page
 full_logo: true
 title: Reuniões
-subtitle: Programação e links das reuniões.
+subtitle: Programação e links das reuniões
 description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 sitemap:
   priority: 1.0
@@ -57,7 +57,7 @@ sitemap:
          <div class="card-body">
             <h4 class="card-title">Classe das Moças</h4>
             <p class="card-text">2° e 4° domingo | 10:30 hs.</p>
-            <a target="_blank" href="#" class="btn btn-primary">Visitar</a>
+            <a target="_blank" href="https://meet.google.com/jza-jvgm-wwt" class="btn btn-primary">Visitar</a>
          </div>
       </div>
    </div>
@@ -68,7 +68,7 @@ sitemap:
          <div class="card-body">
             <h4 class="card-title">Classe dos Rapazes</h4>
             <p class="card-text">2° e 4° domingo | 10:30 hs.</p>
-            <a target="_blank" href="#" class="btn btn-primary">Visitar</a>
+            <a target="_blank" href="https://meet.google.com/jza-jvgm-wwt" class="btn btn-primary">Visitar</a>
          </div>
       </div>
       <div class="card" style="width:400px">
@@ -76,7 +76,7 @@ sitemap:
          <div class="card-body">
             <h4 class="card-title">Sociedade de Socorro</h4>
             <p class="card-text">2° e 4° domingo | 11:15 hs.</p>
-            <a target="_blank" href="#" class="btn btn-primary">Visitar</a>
+            <a target="_blank" href="https://us05web.zoom.us/j/85093942588?pwd=Rkg0emJ5YTZNeHJJcU5XSERRMWp5UT09" class="btn btn-primary">Visitar</a>
          </div>
       </div>
       <div class="card" style="width:400px">
